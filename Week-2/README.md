@@ -22,4 +22,4 @@ For my intent dataset I chose an aviation and flight assistance domain, with int
 
 ## Link to this week's work
 
-https://github.com/0780814741/chatbot-dev-journey/tree/main/week-2
+https://github.com/0780814741/chatbot-dev-journey/tree/main/Week-2
